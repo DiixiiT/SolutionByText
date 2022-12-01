@@ -3,7 +3,6 @@ from urllib import request
 from flask import Flask,request,jsonify
 import json
 from flask_cors import CORS
-from sinchsms import SinchSMS
 import requests
 import ast
 
